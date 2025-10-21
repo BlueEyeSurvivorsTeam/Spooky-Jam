@@ -3,6 +3,7 @@ using UnityEngine;
 public class ItemController : MonoBehaviour
 {
     public InventoryManager inventoryManager;
+    public UiUpdater uiUpdater;
 
     public void UpdatePaperAmount(GameObject item)
     {
@@ -51,5 +52,25 @@ public class ItemController : MonoBehaviour
         {
             return;
         }
+    }
+    public void UpdateScissors()
+    {
+        inventoryManager.GetScissors();
+        uiUpdater.UpdateScissors();
+    }
+    public void UpdateHammer()
+    {
+        inventoryManager.GetHammer();
+        uiUpdater.UpdateHammer();
+    }
+    public void UpdateGlue()
+    {
+        inventoryManager.GetGlue();
+        uiUpdater.UpdateGlue();
+    }
+    public void UpdatePaintKit()
+    {
+        inventoryManager.GetPaintKit();
+        uiUpdater.UpdatePaintKit();
     }
 }

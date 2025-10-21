@@ -5,10 +5,14 @@ public class InventoryManager : MonoBehaviour
     [Header("Cantidad máxima de items")]
     public int maxAmountItem = 10;
     [Header("Herramientas obtenidas")]
-    public bool hasScissors;
-    public bool hasHammer;
-    public bool hasGlue;
-    public bool hasPaintKit;
+    [SerializeField] private bool hasScissors;
+    public bool HasScissors=> hasScissors;
+    [SerializeField] private bool hasHammer;
+    public bool HasHammer => hasHammer;
+    [SerializeField] private bool hasGlue;
+    public bool HasGlue => hasGlue;
+    [SerializeField] private bool hasPaintKit;
+    public bool HasPaintKit => hasPaintKit;
     [Header("Cantidad actual de items")]
     [SerializeField] private int currentPaperAmount;
     public int CurrentPaperAmount=> currentPaperAmount;
