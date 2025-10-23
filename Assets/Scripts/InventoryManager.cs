@@ -1,58 +1,34 @@
+using System;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class InventoryManager : MonoBehaviour
 {
     [Header("Cantidad máxima de items")]
     public int maxAmountItem = 10;
-    [Header("Herramientas obtenidas")]
-    [SerializeField] private bool hasScissors;
-    public bool HasScissors=> hasScissors;
-    [SerializeField] private bool hasHammer;
-    public bool HasHammer => hasHammer;
-    [SerializeField] private bool hasGlue;
-    public bool HasGlue => hasGlue;
-    [SerializeField] private bool hasPaintKit;
-    public bool HasPaintKit => hasPaintKit;
-    [Header("Cantidad actual de items")]
-    [SerializeField] private int currentPaperAmount;
-    public int CurrentPaperAmount=> currentPaperAmount;
-    [SerializeField] private int currentSticksAmount;
-    public int CurrentSitcksAmount => currentSticksAmount;
-    [SerializeField] private int currentFurAmount;
-    public int CurrentFurAmount => currentFurAmount;
-    [SerializeField] private int currentStonesAmount;
-    public int CurrentStonesAmount => currentStonesAmount;
 
-    public void UpdatePaperAmount(int amount)
+    private Dictionary<MaterialType, int> itemAmounts = new();
+    private HashSet<ToolType> tools = new();
+
+    public int GetAmount(MaterialType type)
     {
-        currentPaperAmount += amount;
+        itemAmounts.TryGetValue(type, out int amount);
+        return amount;
     }
-    public void UpdateSticksAmount(int amount)
+
+    public bool HasTool(ToolType type)
     {
-        currentSticksAmount += amount;
+        return tools.Contains(type);
     }
-    public void UpdateFurAmount(int amount)
+
+    public void AddMaterial(MaterialType material, int amount = 1)
     {
-        currentFurAmount += amount;
+        int current = GetAmount(material);
+        itemAmounts[material] = Mathf.Min(current + amount, maxAmountItem);
     }
-    public void UpdateStonesAmount(int amount)
+
+    public void AddTool(ToolType tool)
     {
-        currentStonesAmount += amount;
-    }
-    public void GetScissors()
-    {
-        hasScissors = true;
-    }
-    public void GetHammer()
-    {
-        hasHammer = true;
-    }
-    public void GetGlue()
-    {
-        hasGlue = true;
-    }
-    public void GetPaintKit()
-    {
-        hasPaintKit = true;
+        tools.Add(tool);
     }
 }

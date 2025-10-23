@@ -31,5 +31,9 @@ public class DropZone : MonoBehaviour, IDropHandler
         {
             action.GetComponent<Part>().UpdatePart(droppedObject);
         }
+        if(action.GetComponent<MakeCostum>())
+        {
+            action.GetComponent<MakeCostum>().UpdatePart(droppedObject);
+        }
     }
 }

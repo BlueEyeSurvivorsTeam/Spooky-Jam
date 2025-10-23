@@ -20,15 +20,15 @@ public class ItemManager : MonoBehaviour
         Instance = this;
         for (int i = 0; i < parts.Length; i++)
         {
-            if (parts[i].materialType == PartData.MaterialType.Paper)
+            if (parts[i].materialType == MaterialType.Paper)
             {
                 paper.Add(parts[i]);
             }
-            else if (parts[i].materialType == PartData.MaterialType.Fur)
+            else if (parts[i].materialType == MaterialType.Fur)
             {
                 fur.Add(parts[i]);
             }
-            else if (parts[i].materialType == PartData.MaterialType.Stone)
+            else if (parts[i].materialType == MaterialType.Stone)
             {
                 stone.Add(parts[i]);
             }

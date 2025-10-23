@@ -19,6 +19,7 @@ public class TransitionController : MonoBehaviour
         }
         panel.transform.localScale = Vector3.one;
     }
+    public void OpenCorountine(GameObject panel) => StartCoroutine(Open(panel));
 
     public IEnumerator Close(GameObject panel)
     {
@@ -34,6 +35,7 @@ public class TransitionController : MonoBehaviour
         panel.transform.localScale = Vector3.zero;
         panel.SetActive(false);
     }
+    public void CloseCorountine(GameObject panel) => StartCoroutine(Close(panel));
     private IEnumerator TransitionClose()
     {
         anim.SetTrigger("Transition");

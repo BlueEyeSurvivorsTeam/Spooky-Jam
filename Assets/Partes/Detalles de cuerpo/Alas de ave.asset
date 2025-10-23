@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adf467dbd07d998429e882a4e1edabf8, type: 3}
+  m_Name: Alas de ave
+  m_EditorClassIdentifier: 
+  partType: 4
+  materialType: 3
+  toolType: 2
+  price: 5
+  namePart: Alas de ave
+  useColor: 1
+  currentColor: {r: 1, g: 1, b: 1, a: 1}
+  sprite: {fileID: 3817136733662290157, guid: 1ec7386cb26178847a5b0531f69fc343, type: 3}
