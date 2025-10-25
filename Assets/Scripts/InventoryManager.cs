@@ -9,7 +9,11 @@ public class InventoryManager : MonoBehaviour
 
     private Dictionary<MaterialType, int> itemAmounts = new();
     private HashSet<ToolType> tools = new();
-
+    public static InventoryManager Instance;
+    private void Awake()
+    {
+        Instance = this;
+    }
     public int GetAmount(MaterialType type)
     {
         itemAmounts.TryGetValue(type, out int amount);

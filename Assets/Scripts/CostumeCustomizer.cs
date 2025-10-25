@@ -1,8 +1,7 @@
-using UnityEditor.SpeedTree.Importer;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class MakeCostum : MonoBehaviour
+public class CostumeCustomizer : MonoBehaviour
 {
     [Header("Partes principales")]
     public Image head;
@@ -28,7 +27,6 @@ public class MakeCostum : MonoBehaviour
     private PartData mouthData;
     private PartData headDetailData;
     private PartData bodyDetailData;
-
     private bool bodyIsActive;
     private bool maskIsActive;
 
@@ -42,7 +40,9 @@ public class MakeCostum : MonoBehaviour
 
         if (part.indexColor == -1 && partData.useColor)
             return;
+
         Image image = obj.GetComponentInChildren<Image>();
+
         if (partData.partType == PartType.BodyDetails && !maskIsActive)
         {
             bodyIsActive = true;
@@ -74,13 +74,7 @@ public class MakeCostum : MonoBehaviour
                 maskIsActive = true;
                 eyeData = partData;
                 eyeData.currentColor = image.color;
-                for (int i = 0; i < eyes.Length; i++)
-                {
-                    eyes[i].sprite = partData.sprite;
-                    iris[i].sprite = partData.sprite;
-                    ApplyColor(eyes[i], Color.white);
-                    ApplyColor(iris[i], partData.currentColor);
-                }
+                ApplyEyes(partData);
                 break;
 
             case PartType.HeadDetails:
@@ -91,12 +85,14 @@ public class MakeCostum : MonoBehaviour
                 break;
         }
     }
+
     private void ApplyPart(Image img, PartData data)
     {
         img.sprite = data.sprite;
         ApplyColor(img, data.useColor ? data.currentColor : Color.white);
     }
-    private void ApplyPart(SpriteRenderer img, PartData data)
+
+    public void ApplyPart(SpriteRenderer img, PartData data)
     {
         img.sprite = data.sprite;
         ApplyColor(img, data.useColor ? data.currentColor : Color.white);
@@ -106,9 +102,21 @@ public class MakeCostum : MonoBehaviour
     {
         img.color = color;
     }
-    private void ApplyColor(SpriteRenderer img, Color color)
+
+    public void ApplyColor(SpriteRenderer img, Color color)
     {
         img.color = color;
+    }
+
+    private void ApplyEyes(PartData partData)
+    {
+        for (int i = 0; i < eyes.Length; i++)
+        {
+            eyes[i].sprite = partData.sprite;
+            iris[i].sprite = partData.sprite;
+            ApplyColor(eyes[i], Color.white);
+            ApplyColor(iris[i], partData.currentColor);
+        }
     }
 
     private void ApplyHeadDetail(PartData partData)
@@ -141,6 +149,7 @@ public class MakeCostum : MonoBehaviour
         ClearImage(headDetail);
         ClearImages(hornDetail);
         ClearImage(bodyDetail);
+
         headData = null;
         eyeData = null;
         mouthData = null;
@@ -160,72 +169,11 @@ public class MakeCostum : MonoBehaviour
         foreach (var img in imgs)
             ClearImage(img);
     }
-    public void SetCostum()
-    {
-        if (headData != null)
-        {
-            GameManager.Instance.head = headData;
-            ApplyPart(headSprite, headData);
-        }
 
-        if (mouthData != null)
-        {
-            GameManager.Instance.mouth = mouthData;
-            ApplyPart(mouthSprite, mouthData);
-        }
-
-        if (eyeData != null)
-        {
-            GameManager.Instance.eye = eyeData;
-            for (int i = 0; i < eyes.Length; i++)
-            {
-                eyesSprite[i].sprite = eyeData.sprite;
-                irisSprite[i].sprite = eyeData.sprite;
-                ApplyColor(eyesSprite[i], Color.white);
-                ApplyColor(irisSprite[i], eyeData.currentColor);
-            }
-        }
-
-        if (headDetailData != null)
-        {
-            GameManager.Instance.headDetail = headDetailData;
-            bool isDevilHorns = headDetailData.namePart == "Cuernos de diablo";
-            print(isDevilHorns);
-            if (isDevilHorns)
-            {
-                headDetailSprite.color = Color.clear;
-                for (int i = 0; i < hornDetailSprite.Length; i++)
-                {
-                    hornDetailSprite[i].color = headDetailData.useColor ? headDetailData.currentColor : Color.white;
-                }
-            }
-            else
-            {
-                for (int i = 0; i < hornDetailSprite.Length; i++)
-                {
-                    hornDetailSprite[i].color = Color.clear;
-                }
-                headDetailSprite.sprite = headDetailData.sprite;
-                headDetailSprite.color = headDetailData.useColor ? headDetailData.currentColor : Color.white;
-            }
-        }
-
-        if (bodyDetailData != null)
-        {
-            GameManager.Instance.bodyDetail = bodyDetailData;
-            bool isFurActive = bodyDetailData.namePart == "Pelaje";
-
-            if (isFurActive)
-            {
-                windsSprite.color = Color.clear;
-                furSprite.color = bodyDetailData.useColor ? bodyDetailData.currentColor : Color.white;
-            }
-            else
-            {
-                furSprite.color = Color.clear;
-                windsSprite.sprite = bodyDetailData.sprite;
-                windsSprite.color = bodyDetailData.useColor ? bodyDetailData.currentColor : Color.white;
-            }
-        }
-    }
+    // Getters para los datos de las partes
+    public PartData GetHeadData() => headData;
+    public PartData GetEyeData() => eyeData;
+    public PartData GetMouthData() => mouthData;
+    public PartData GetHeadDetailData() => headDetailData;
+    public PartData GetBodyDetailData() => bodyDetailData;
 }

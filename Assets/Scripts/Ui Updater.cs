@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class UiUpdater : MonoBehaviour
@@ -15,7 +16,14 @@ public class UiUpdater : MonoBehaviour
     [SerializeField] private GameObject glueItem;
     [SerializeField] private GameObject paintKitItem;
 
+    [Header("Textos de item")]
+    [SerializeField] private TextMeshProUGUI stickText;
+    [SerializeField] private TextMeshProUGUI stoneText;
+    [SerializeField] private TextMeshProUGUI furText;
+    [SerializeField] private TextMeshProUGUI paperText;
+
     private Dictionary<ToolType, GameObject> toolIcons;
+    private Dictionary<MaterialType, TextMeshProUGUI> text;
 
     private void Awake()
     {
@@ -25,6 +33,13 @@ public class UiUpdater : MonoBehaviour
             { ToolType.Hammer, hammerItem },
             { ToolType.Glue, glueItem },
             { ToolType.PaintKit, paintKitItem }
+        };
+        text = new Dictionary<MaterialType, TextMeshProUGUI>
+        {
+            { MaterialType.Stick, stickText },
+            { MaterialType.Stone, stoneText },
+            { MaterialType.Fur, furText },
+            { MaterialType.Paper, paperText }
         };
     }
 
@@ -54,5 +69,13 @@ public class UiUpdater : MonoBehaviour
     {
         if (toolIcons.TryGetValue(type, out GameObject icon))
             icon.SetActive(true);
+    }
+    public void UpdateMaterial(MaterialType type)
+    {
+        if (text.TryGetValue(type, out TextMeshProUGUI t))
+        {
+            t.text = t.gameObject.name + " " + InventoryManager.Instance.GetAmount(type).ToString() + "/" + InventoryManager.Instance.maxAmountItem;
+        }
+
     }
 }
