@@ -13,9 +13,10 @@ MonoBehaviour:
   m_Name: DefaultPaper
   m_EditorClassIdentifier: 
   partType: 0
-  materialType: 0
+  materialType: 1
   toolType: 0
   price: 5
   namePart: DefaultPaper
   useColor: 0
+  currentColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: -1580197971213559310, guid: 3bff6cc57dd22c341b3e2842b82a312a, type: 3}

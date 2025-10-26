@@ -19,6 +19,7 @@ public class Movement : MonoBehaviour
     {
         if(GameManager.Instance.isPaused)
         {
+            rb.linearVelocity = Vector2.zero;
             return;
         }
         if(canMove)

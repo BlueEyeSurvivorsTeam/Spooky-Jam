@@ -48,7 +48,6 @@ public class CostumeManager : MonoBehaviour
     {
         if (partData != null && CheckCost(partData))
         {
-            print("restando precio");
             itemController.RestMaterial(partData.materialType, -1 * partData.price);
         }
     }

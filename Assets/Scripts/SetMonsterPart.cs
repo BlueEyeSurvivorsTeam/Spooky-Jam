@@ -34,11 +34,16 @@ public class SetMonsterPart : MonoBehaviour
         if (headData != null)
         {
             ApplyPart(head, headData);
-            playerDetector.headColor = ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
             if(headData.useColor)
             {
-                ApplyColor(head, playerDetector.headColor);
+                if(playerDetector.headColor == Color.white || playerDetector.headColor == Color.clear)
+                playerDetector.headColor = ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
             }
+            else
+            {
+                playerDetector.headColor = Color.white;
+            }
+            ApplyColor(head, playerDetector.headColor);
         }
     }
     private void ApplyMouthPart(PartData mouthData)
@@ -48,10 +53,13 @@ public class SetMonsterPart : MonoBehaviour
             ApplyPart(mouth, mouthData);
             if (mouthData.useColor)
             {
-                playerDetector.mouthColor = ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
-                while(playerDetector.mouthColor == playerDetector.headColor)
+                if (playerDetector.mouthColor == Color.white || playerDetector.mouthColor == Color.clear)
                 {
                     playerDetector.mouthColor = ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
+                    while(playerDetector.mouthColor == playerDetector.headColor)
+                    {
+                        playerDetector.mouthColor = ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
+                    }
                 }
             }
             else
@@ -66,13 +74,16 @@ public class SetMonsterPart : MonoBehaviour
     {
         if (eyeData != null)
         {
-            playerDetector.eyeColor = ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
-            for (int i = 0; i < eyes.Length; i++)
+            if (playerDetector.eyeColor == Color.white || playerDetector.eyeColor == Color.clear)
             {
-                eyes[i].sprite = eyeData.sprite;
-                iris[i].sprite = eyeData.sprite;
-                ApplyColor(eyes[i], Color.white);
-                ApplyColor(iris[i], playerDetector.eyeColor);
+                playerDetector.eyeColor = ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
+                for (int i = 0; i < eyes.Length; i++)
+                {
+                    eyes[i].sprite = eyeData.sprite;
+                    iris[i].sprite = eyeData.sprite;
+                    ApplyColor(eyes[i], Color.white);
+                    ApplyColor(iris[i], playerDetector.eyeColor);
+                }
             }
         }
     }
@@ -101,10 +112,13 @@ public class SetMonsterPart : MonoBehaviour
                 headDetail.sprite = headDetailData.sprite;
                 if(headDetailData.useColor) 
                 {
-                    playerDetector.headDetailColor = ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
-                    while(playerDetector.headDetailColor == playerDetector.headColor)
+                    if (playerDetector.headDetailColor == Color.white || playerDetector.headDetailColor == Color.clear)
                     {
                         playerDetector.headDetailColor = ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
+                        while(playerDetector.headDetailColor == playerDetector.headColor)
+                        {
+                            playerDetector.headDetailColor = ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
+                        }
                     }
                 }
                 else
@@ -134,10 +148,13 @@ public class SetMonsterPart : MonoBehaviour
             {
                 ApplyColor(fur, Color.clear);
                 winds.sprite = bodyDetailData.sprite;
-                playerDetector.bodyDetailColor = ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
-                while(playerDetector.bodyDetailColor == playerDetector.headColor)
+                if (playerDetector.bodyColor == Color.white || playerDetector.bodyColor == Color.clear)
                 {
                     playerDetector.bodyDetailColor = ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
+                    while(playerDetector.bodyDetailColor == playerDetector.headColor)
+                    {
+                        playerDetector.bodyDetailColor = ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
+                    }
                 }
                 playerDetector.bodyColor = head.color;
                 ApplyColor(winds, playerDetector.bodyDetailColor);

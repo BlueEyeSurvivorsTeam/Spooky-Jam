@@ -13,9 +13,10 @@ MonoBehaviour:
   m_Name: DefaultStone
   m_EditorClassIdentifier: 
   partType: 0
-  materialType: 1
+  materialType: 0
   toolType: 0
   price: 5
   namePart: DefaultStone
   useColor: 0
+  currentColor: {r: 1, g: 1, b: 1, a: 1}
   sprite: {fileID: -5079636569458112396, guid: e779e649f114ec54fbb3bccd5b490e1c, type: 3}
