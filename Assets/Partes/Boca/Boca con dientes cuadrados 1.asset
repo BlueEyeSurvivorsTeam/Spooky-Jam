@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Boca con dientes cuadrados 1
   m_EditorClassIdentifier: 
   partType: 0
-  materialType: 1
+  materialType: 0
   toolType: 0
-  price: 5
+  price: 4
   namePart: Boca sonriente con dientes cuadrados
   useColor: 0
   currentColor: {r: 1, g: 1, b: 1, a: 1}

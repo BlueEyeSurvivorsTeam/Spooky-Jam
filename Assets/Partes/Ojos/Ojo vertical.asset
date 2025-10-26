@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Ojo vertical
   m_EditorClassIdentifier: 
   partType: 1
-  materialType: 0
+  materialType: 1
   toolType: 1
-  price: 5
+  price: 2
   namePart: Ojo vertical
   useColor: 1
   currentColor: {r: 1, g: 1, b: 1, a: 1}

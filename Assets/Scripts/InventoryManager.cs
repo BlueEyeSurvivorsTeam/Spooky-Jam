@@ -29,6 +29,8 @@ public class InventoryManager : MonoBehaviour
     {
         int current = GetAmount(material);
         itemAmounts[material] = Mathf.Min(current + amount, maxAmountItem);
+        print(current + " + " + amount + " = " + (current + amount));
+        print(itemAmounts[material]);
     }
 
     public void AddTool(ToolType tool)

@@ -12,6 +12,13 @@ public class ItemController : MonoBehaviour
         inventoryManager.AddMaterial(material, amount);
         uiUpdater.UpdateMaterial(material);
     }
+    public void RestMaterial(MaterialType material, int amount)
+    {
+        if (inventoryManager.GetAmount(material) <= 0)
+            return;
+        inventoryManager.AddMaterial(material, amount);
+        uiUpdater.UpdateMaterial(material);
+    }
 
     public void CollectTool(ToolType tool)
     {

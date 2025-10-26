@@ -41,8 +41,6 @@ public class CostumeManager : MonoBehaviour
 
     public bool CheckCost(PartData partData)
     {
-        if (partData == null) return true; // Partes nulas son "gratis"
-
         return InventoryManager.Instance.GetAmount(partData.materialType) >= partData.price;
     }
 
@@ -50,7 +48,8 @@ public class CostumeManager : MonoBehaviour
     {
         if (partData != null && CheckCost(partData))
         {
-            itemController.CollectMaterial(partData.materialType, -partData.price);
+            print("restando precio");
+            itemController.RestMaterial(partData.materialType, -1 * partData.price);
         }
     }
 
@@ -59,6 +58,7 @@ public class CostumeManager : MonoBehaviour
         if (headData != null)
         {
             GameManager.Instance.head = headData;
+            GameManager.Instance.headColor = headData.currentColor;
             costumeCustomizer.ApplyPart(costumeCustomizer.headSprite, headData);
             RestCost(headData);
         }
@@ -69,6 +69,7 @@ public class CostumeManager : MonoBehaviour
         if (mouthData != null)
         {
             GameManager.Instance.mouth = mouthData;
+            GameManager.Instance.mouthColor = mouthData.currentColor;
             costumeCustomizer.ApplyPart(costumeCustomizer.mouthSprite, mouthData);
             RestCost(mouthData);
         }
@@ -79,6 +80,7 @@ public class CostumeManager : MonoBehaviour
         if (eyeData != null)
         {
             GameManager.Instance.eye = eyeData;
+            GameManager.Instance.eyeColor = eyeData.currentColor;
             RestCost(eyeData);
 
             for (int i = 0; i < costumeCustomizer.eyesSprite.Length; i++)
@@ -96,6 +98,7 @@ public class CostumeManager : MonoBehaviour
         if (headDetailData != null)
         {
             GameManager.Instance.headDetail = headDetailData;
+            GameManager.Instance.headDetailColor = headDetailData.currentColor;
             RestCost(headDetailData);
 
             bool isDevilHorns = headDetailData.namePart == "Cuernos de diablo";
@@ -127,6 +130,7 @@ public class CostumeManager : MonoBehaviour
         if (bodyDetailData != null)
         {
             GameManager.Instance.bodyDetail = bodyDetailData;
+            GameManager.Instance.bodyDetailColor = bodyDetailData.currentColor;
             RestCost(bodyDetailData);
 
             bool isFurActive = bodyDetailData.namePart == "Pelaje";

@@ -9,10 +9,11 @@ public class Movement : MonoBehaviour
     public KeyCode runKey = KeyCode.LeftShift;
     private float currentSpeed;
     private Vector3 inputDirection;
-
+    Rigidbody2D rb;
     private void Start()
     {
         currentSpeed = speed;
+        rb = GetComponent<Rigidbody2D>();
     }
     private void Update()
     {
@@ -47,6 +48,6 @@ public class Movement : MonoBehaviour
     }
     private void Move()
     {
-        transform.position += inputDirection * currentSpeed * Time.deltaTime;
+        rb.linearVelocity = inputDirection * currentSpeed;
     }
 }

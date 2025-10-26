@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   partType: 4
   materialType: 0
-  toolType: 1
-  price: 5
+  toolType: 0
+  price: 4
   namePart: Alas puntiagudas
   useColor: 1
   currentColor: {r: 1, g: 1, b: 1, a: 1}

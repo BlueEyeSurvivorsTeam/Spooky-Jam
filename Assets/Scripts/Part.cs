@@ -78,7 +78,7 @@ public class Part : MonoBehaviour
     public void SetPart(int index)
     {
         indexPart = index;
-        namePart.text = partData.namePart;
+        namePart.text = partData.namePart + "\nCosto: " + partData.price;
         UpdateImage();
     }
 

@@ -5,8 +5,10 @@ public class Item : MonoBehaviour
     public string tagDetect;
     public bool isMaterial;
     public MaterialType materialType;
+    public int materialAmount = 1;
     public ToolType toolType;
-    public float respawnTime = 30f;
+    public float minRespawnTime = 20f;
+    public float maxRespawnTime = 45f;
     public ItemController controller;
     float currentTime;
     Collider2D colliderDetector;
@@ -15,7 +17,7 @@ public class Item : MonoBehaviour
     {
         colliderDetector = GetComponent<Collider2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
-        currentTime = respawnTime;
+        currentTime = Random.Range(minRespawnTime, maxRespawnTime);
     }
     private void Update()
     {
@@ -23,7 +25,7 @@ public class Item : MonoBehaviour
         {
             colliderDetector.enabled = true;
             spriteRenderer.enabled = true;
-            currentTime = respawnTime;
+            currentTime = Random.Range(minRespawnTime, maxRespawnTime); ;
         }
         if(!colliderDetector.enabled)
         {
@@ -34,7 +36,7 @@ public class Item : MonoBehaviour
     {
         if (collision.CompareTag(tagDetect))
         {
-            if (isMaterial) controller.CollectMaterial(materialType, 1);
+            if (isMaterial) controller.CollectMaterial(materialType, materialAmount);
             else
             {
                 controller.CollectTool(toolType);
