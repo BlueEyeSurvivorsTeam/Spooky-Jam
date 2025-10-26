@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: ac013f4001cd9dd4b839b701ab9f42fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2277728956068759421
+    second: FLORES 5_0
+  - first:
+      213: 3540696468280828599
+    second: FLORES 5_1
+  - first:
+      213: 1303156008803992062
+    second: FLORES 5_2
+  - first:
+      213: 7955257409201702583
+    second: FLORES 5_3
+  - first:
+      213: 4660832386484036193
+    second: FLORES 5_4
+  - first:
+      213: 2370824136713429805
+    second: FLORES 5_5
+  - first:
+      213: -8590492701034656177
+    second: FLORES 5_6
+  - first:
+      213: -8228643090012603705
+    second: FLORES 5_7
+  - first:
+      213: 3598286644840697719
+    second: FLORES 5_8
+  - first:
+      213: 479484887837368438
+    second: FLORES 5_9
+  - first:
+      213: -8090487504119624836
+    second: FLORES 5_10
+  - first:
+      213: 6416457259364774226
+    second: FLORES 5_11
+  - first:
+      213: -5249764023698453853
+    second: FLORES 5_12
+  - first:
+      213: 5091242756037558693
+    second: FLORES 5_13
+  - first:
+      213: -6355906098308130483
+    second: FLORES 5_14
+  - first:
+      213: -7552861005442282807
+    second: FLORES 5_15
+  - first:
+      213: 8559086514840603586
+    second: FLORES 5_16
+  - first:
+      213: 8247610205813118792
+    second: FLORES 5_17
+  - first:
+      213: 3686667721947102039
+    second: FLORES 5_18
+  - first:
+      213: 1020618711316651918
+    second: FLORES 5_19
+  - first:
+      213: 4407669573851772001
+    second: FLORES 5_20
+  - first:
+      213: -3663096326766464099
+    second: FLORES 5_21
+  - first:
+      213: 7097815202719175583
+    second: FLORES 5_22
+  - first:
+      213: -1865041860842955209
+    second: FLORES 5_23
+  - first:
+      213: -6109353622792283940
+    second: FLORES 5_24
+  - first:
+      213: -5116610725623770670
+    second: FLORES 5_25
+  - first:
+      213: 324208428156389929
+    second: FLORES 5_26
+  - first:
+      213: 6029615694165585701
+    second: FLORES 5_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FLORES 5_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 754
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38876e61591e360e0800000000000000
+      internalID: -2277728956068759421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_1
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 759
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2eb51bda4132130800000000000000
+      internalID: 3540696468280828599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_2
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 751
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef18daf4c7db51210800000000000000
+      internalID: 1303156008803992062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 745
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b603440770c66e60800000000000000
+      internalID: 7955257409201702583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 736
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16264028c5a9ea040800000000000000
+      internalID: 4660832386484036193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_5
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 722
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23e9bdbdfbd6e020800000000000000
+      internalID: 2370824136713429805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 688
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e4e3d176078c880800000000000000
+      internalID: -8590492701034656177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 688
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca7354f4bcfdcd80800000000000000
+      internalID: -8228643090012603705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 663
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f03c193aeafe130800000000000000
+      internalID: 3598286644840697719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 655
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670e6be07f877a600800000000000000
+      internalID: 479484887837368438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 610
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b8631fa70d8bf80800000000000000
+      internalID: -8090487504119624836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_11
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 617
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251f9eca1e5db0950800000000000000
+      internalID: 6416457259364774226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_12
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 585
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa04d45f671527b0800000000000000
+      internalID: -5249764023698453853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_13
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 576
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a146e2ef4ab7a640800000000000000
+      internalID: 5091242756037558693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_14
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 185
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49da9024194bc7a0800000000000000
+      internalID: -6355906098308130483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_15
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 177
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca86bcaee8de2790800000000000000
+      internalID: -7552861005442282807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_16
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 185
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb09e656dbf7c670800000000000000
+      internalID: 8559086514840603586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_17
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 177
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8479063d8c5657270800000000000000
+      internalID: 8247610205813118792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 131
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b3e83a2cca92330800000000000000
+      internalID: 3686667721947102039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f552b7f47f92e00800000000000000
+      internalID: 1020618711316651918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_20
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 73
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1647bb4ef103b2d30800000000000000
+      internalID: 4407669573851772001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 64
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93fb097c411a2dc0800000000000000
+      internalID: -3663096326766464099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_22
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 50
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93917f2251808260800000000000000
+      internalID: 7097815202719175583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ed8391f4a0e16e0800000000000000
+      internalID: -1865041860842955209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_24
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 50
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd85832bf37373ba0800000000000000
+      internalID: -6109353622792283940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1dd3d67a52ef8b0800000000000000
+      internalID: -5116610725623770670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 34
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a037109d1df7400800000000000000
+      internalID: 324208428156389929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FLORES 5_27
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 41
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f2cde078f7da350800000000000000
+      internalID: 6029615694165585701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FLORES 5_0: -2277728956068759421
+      FLORES 5_1: 3540696468280828599
+      FLORES 5_10: -8090487504119624836
+      FLORES 5_11: 6416457259364774226
+      FLORES 5_12: -5249764023698453853
+      FLORES 5_13: 5091242756037558693
+      FLORES 5_14: -6355906098308130483
+      FLORES 5_15: -7552861005442282807
+      FLORES 5_16: 8559086514840603586
+      FLORES 5_17: 8247610205813118792
+      FLORES 5_18: 3686667721947102039
+      FLORES 5_19: 1020618711316651918
+      FLORES 5_2: 1303156008803992062
+      FLORES 5_20: 4407669573851772001
+      FLORES 5_21: -3663096326766464099
+      FLORES 5_22: 7097815202719175583
+      FLORES 5_23: -1865041860842955209
+      FLORES 5_24: -6109353622792283940
+      FLORES 5_25: -5116610725623770670
+      FLORES 5_26: 324208428156389929
+      FLORES 5_27: 6029615694165585701
+      FLORES 5_3: 7955257409201702583
+      FLORES 5_4: 4660832386484036193
+      FLORES 5_5: 2370824136713429805
+      FLORES 5_6: -8590492701034656177
+      FLORES 5_7: -8228643090012603705
+      FLORES 5_8: 3598286644840697719
+      FLORES 5_9: 479484887837368438
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

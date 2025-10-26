@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 7504fb4c080dadf4ea65ecb99295cd3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7797030253462565260
+    second: PISO CALABAZA 5_0
+  - first:
+      213: -7141836895315496397
+    second: PISO CALABAZA 5_1
+  - first:
+      213: -8798913587732457920
+    second: PISO CALABAZA 5_2
+  - first:
+      213: -7243438600260270821
+    second: PISO CALABAZA 5_3
+  - first:
+      213: -8942198873463215062
+    second: PISO CALABAZA 5_4
+  - first:
+      213: -2419095350391461529
+    second: PISO CALABAZA 5_5
+  - first:
+      213: -8993964214902641469
+    second: PISO CALABAZA 5_6
+  - first:
+      213: -6334740017998920770
+    second: PISO CALABAZA 5_7
+  - first:
+      213: -1896476487608556688
+    second: PISO CALABAZA 5_8
+  - first:
+      213: 1032368922980147034
+    second: PISO CALABAZA 5_9
+  - first:
+      213: -7259129208092214907
+    second: PISO CALABAZA 5_10
+  - first:
+      213: 7575159063159001370
+    second: PISO CALABAZA 5_11
+  - first:
+      213: 460926470049890634
+    second: PISO CALABAZA 5_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PISO CALABAZA 5_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 771
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c813c9084bd943c60800000000000000
+      internalID: 7797030253462565260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO CALABAZA 5_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 771
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332f0face2913ec90800000000000000
+      internalID: -7141836895315496397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO CALABAZA 5_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 739
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04659d9e5baf3e580800000000000000
+      internalID: -8798913587732457920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO CALABAZA 5_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 675
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15422f68f22a7b90800000000000000
+      internalID: -7243438600260270821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO CALABAZA 5_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 675
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ca35c908de6e380800000000000000
+      internalID: -8942198873463215062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO CALABAZA 5_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 675
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7692e128895ad6ed0800000000000000
+      internalID: -2419095350391461529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO CALABAZA 5_6
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 643
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc2728d2350f2380800000000000000
+      internalID: -8993964214902641469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO CALABAZA 5_7
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 643
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb309ba348b7618a0800000000000000
+      internalID: -6334740017998920770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO CALABAZA 5_8
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 643
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0732637beac5ea5e0800000000000000
+      internalID: -1896476487608556688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO CALABAZA 5_9
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 643
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f5263d016b35e00800000000000000
+      internalID: 1032368922980147034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO CALABAZA 5_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 259
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589300d1274624b90800000000000000
+      internalID: -7259129208092214907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO CALABAZA 5_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 131
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a115ca4780f502960800000000000000
+      internalID: 7575159063159001370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO CALABAZA 5_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 99
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4106e2be2a856600800000000000000
+      internalID: 460926470049890634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PISO CALABAZA 5_0: 7797030253462565260
+      PISO CALABAZA 5_1: -7141836895315496397
+      PISO CALABAZA 5_10: -7259129208092214907
+      PISO CALABAZA 5_11: 7575159063159001370
+      PISO CALABAZA 5_12: 460926470049890634
+      PISO CALABAZA 5_2: -8798913587732457920
+      PISO CALABAZA 5_3: -7243438600260270821
+      PISO CALABAZA 5_4: -8942198873463215062
+      PISO CALABAZA 5_5: -2419095350391461529
+      PISO CALABAZA 5_6: -8993964214902641469
+      PISO CALABAZA 5_7: -6334740017998920770
+      PISO CALABAZA 5_8: -1896476487608556688
+      PISO CALABAZA 5_9: 1032368922980147034
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

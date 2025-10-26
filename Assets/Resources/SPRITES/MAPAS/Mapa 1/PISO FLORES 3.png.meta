@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: 226b9b39c61902f4e99d72c6b3277927
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8713793599946587246
+    second: PISO FLORES 3_0
+  - first:
+      213: 8523114302170821884
+    second: PISO FLORES 3_1
+  - first:
+      213: 927406608683561430
+    second: PISO FLORES 3_2
+  - first:
+      213: 6202563729143171376
+    second: PISO FLORES 3_3
+  - first:
+      213: -3881910682845190894
+    second: PISO FLORES 3_4
+  - first:
+      213: 7530342732243863144
+    second: PISO FLORES 3_5
+  - first:
+      213: -4357725581546122961
+    second: PISO FLORES 3_6
+  - first:
+      213: -7467472816696550003
+    second: PISO FLORES 3_7
+  - first:
+      213: -6265945075450930067
+    second: PISO FLORES 3_8
+  - first:
+      213: -8133566694662787364
+    second: PISO FLORES 3_9
+  - first:
+      213: 7769266106861447643
+    second: PISO FLORES 3_10
+  - first:
+      213: -7239139014478167577
+    second: PISO FLORES 3_11
+  - first:
+      213: -1438774292957558562
+    second: PISO FLORES 3_12
+  - first:
+      213: -3513853444638116999
+    second: PISO FLORES 3_13
+  - first:
+      213: 2239372112716829458
+    second: PISO FLORES 3_14
+  - first:
+      213: -8099140206974463073
+    second: PISO FLORES 3_15
+  - first:
+      213: 7377186136834426130
+    second: PISO FLORES 3_16
+  - first:
+      213: -3383234797655138312
+    second: PISO FLORES 3_17
+  - first:
+      213: -7482541742216008653
+    second: PISO FLORES 3_18
+  - first:
+      213: -7724068131518562152
+    second: PISO FLORES 3_19
+  - first:
+      213: -7979468016168985361
+    second: PISO FLORES 3_20
+  - first:
+      213: 3865840385465373976
+    second: PISO FLORES 3_21
+  - first:
+      213: -4821639694226251111
+    second: PISO FLORES 3_22
+  - first:
+      213: -7426544591650415621
+    second: PISO FLORES 3_23
+  - first:
+      213: -2668127199338591244
+    second: PISO FLORES 3_24
+  - first:
+      213: 8929497774327612905
+    second: PISO FLORES 3_25
+  - first:
+      213: -7651524730431635707
+    second: PISO FLORES 3_26
+  - first:
+      213: -5522702282686820430
+    second: PISO FLORES 3_27
+  - first:
+      213: 6002859107714025801
+    second: PISO FLORES 3_28
+  - first:
+      213: 4340889551427704240
+    second: PISO FLORES 3_29
+  - first:
+      213: 6535877232945897999
+    second: PISO FLORES 3_30
+  - first:
+      213: -8697609630657027030
+    second: PISO FLORES 3_31
+  - first:
+      213: -7704998553083434048
+    second: PISO FLORES 3_32
+  - first:
+      213: -7448735714450713236
+    second: PISO FLORES 3_33
+  - first:
+      213: 3219015565715503285
+    second: PISO FLORES 3_34
+  - first:
+      213: -1689987011185417411
+    second: PISO FLORES 3_35
+  - first:
+      213: 5622439185061945671
+    second: PISO FLORES 3_36
+  - first:
+      213: -6314639720768893515
+    second: PISO FLORES 3_37
+  - first:
+      213: -2779420811061116411
+    second: PISO FLORES 3_38
+  - first:
+      213: 6195971255491218447
+    second: PISO FLORES 3_39
+  - first:
+      213: 6643768218377063351
+    second: PISO FLORES 3_40
+  - first:
+      213: 1349410152636391167
+    second: PISO FLORES 3_41
+  - first:
+      213: 3380287586598126307
+    second: PISO FLORES 3_42
+  - first:
+      213: -4203092678228912976
+    second: PISO FLORES 3_43
+  - first:
+      213: 7736920789315505822
+    second: PISO FLORES 3_44
+  - first:
+      213: 619097896483744948
+    second: PISO FLORES 3_45
+  - first:
+      213: -1774529244930818182
+    second: PISO FLORES 3_46
+  - first:
+      213: -3114603842920236027
+    second: PISO FLORES 3_47
+  - first:
+      213: 5783421324051816417
+    second: PISO FLORES 3_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PISO FLORES 3_0
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 609
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2938c1573e2621780800000000000000
+      internalID: -8713793599946587246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 407
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf471f8ec4f284670800000000000000
+      internalID: 8523114302170821884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 399
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1fee0a56fcedc00800000000000000
+      internalID: 927406608683561430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 407
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0390d4c59dee31650800000000000000
+      internalID: 6202563729143171376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 399
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215e73b1dcea02ac0800000000000000
+      internalID: -3881910682845190894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 402
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866075841d6218860800000000000000
+      internalID: 7530342732243863144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 400
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f219f4bfbaf3683c0800000000000000
+      internalID: -4357725581546122961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_7
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 409
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d9aee99053e5890800000000000000
+      internalID: -7467472816696550003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 401
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c93abf624ea09a0800000000000000
+      internalID: -6265945075450930067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 386
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde2da74f24cf1f80800000000000000
+      internalID: -8133566694662787364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 393
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd965f06c5af1db60800000000000000
+      internalID: 7769266106861447643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 387
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e18b52cb69698b90800000000000000
+      internalID: -7239139014478167577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 387
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed80d4c4762780ce0800000000000000
+      internalID: -1438774292957558562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 385
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973ff87c8e84c3fc0800000000000000
+      internalID: -3513853444638116999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 377
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21317626219d31f10800000000000000
+      internalID: 2239372112716829458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 369
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93143194e21a9f80800000000000000
+      internalID: -8099140206974463073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 375
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215c3f794b7016660800000000000000
+      internalID: 7377186136834426130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 367
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff560e60e55c01d0800000000000000
+      internalID: -3383234797655138312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 370
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cae2efdeba82890800000000000000
+      internalID: -7482541742216008653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_19
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 375
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890cbef45f89ec490800000000000000
+      internalID: -7724068131518562152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 367
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec18a7cd1c334190800000000000000
+      internalID: -7979468016168985361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_21
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 368
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815d506395936a530800000000000000
+      internalID: 3865840385465373976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_22
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 338
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992a8b68e38161db0800000000000000
+      internalID: -4821639694226251111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_23
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 345
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb141a9a0d9fe890800000000000000
+      internalID: -7426544591650415621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_24
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 337
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb8dd3d278e8fad0800000000000000
+      internalID: -2668127199338591244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 323
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5407d4ae2fbeb70800000000000000
+      internalID: 8929497774327612905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 323
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f71841cc250d590800000000000000
+      internalID: -7651524730431635707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_27
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 321
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf8630d88b6b53b0800000000000000
+      internalID: -5522702282686820430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9494300dd807e4350800000000000000
+      internalID: 6002859107714025801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 306
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b59d0a4c00fd3c30800000000000000
+      internalID: 4340889551427704240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_30
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 291
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02ad4df6b914ba50800000000000000
+      internalID: 6535877232945897999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_31
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 289
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24eba17f12eb4780800000000000000
+      internalID: -8697609630657027030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_32
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 289
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb209883a8521590800000000000000
+      internalID: -7704998553083434048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_33
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 289
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6556623556c0a890800000000000000
+      internalID: -7448735714450713236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 259
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8fce81a9d3cac20800000000000000
+      internalID: 3219015565715503285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_35
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 259
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33e44b64c5fb88e0800000000000000
+      internalID: -1689987011185417411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741aadc56aae60e40800000000000000
+      internalID: 5622439185061945671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 215
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd8ffe51a4ed58a0800000000000000
+      internalID: -6314639720768893515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 207
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502cf539f738d69d0800000000000000
+      internalID: -2779420811061116411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_39
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 195
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cc51a77038cf550800000000000000
+      internalID: 6195971255491218447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_40
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 194
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb05629ef7633c50800000000000000
+      internalID: 6643768218377063351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_41
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe923462611ab210800000000000000
+      internalID: 1349410152636391167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_42
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 185
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e208d586a139ee20800000000000000
+      internalID: 3380287586598126307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 177
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4de146a7d9ba5c0800000000000000
+      internalID: -4203092678228912976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e4c7647701f5b60800000000000000
+      internalID: 7736920789315505822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 162
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcea19b14a779800800000000000000
+      internalID: 619097896483744948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_46
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 169
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f3b58bd0b9f57e0800000000000000
+      internalID: -1774529244930818182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_47
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 163
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c3ca68e44b6c4d0800000000000000
+      internalID: -3114603842920236027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO FLORES 3_48
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 112
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef17866d07d24050800000000000000
+      internalID: 5783421324051816417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PISO FLORES 3_0: -8713793599946587246
+      PISO FLORES 3_1: 8523114302170821884
+      PISO FLORES 3_10: 7769266106861447643
+      PISO FLORES 3_11: -7239139014478167577
+      PISO FLORES 3_12: -1438774292957558562
+      PISO FLORES 3_13: -3513853444638116999
+      PISO FLORES 3_14: 2239372112716829458
+      PISO FLORES 3_15: -8099140206974463073
+      PISO FLORES 3_16: 7377186136834426130
+      PISO FLORES 3_17: -3383234797655138312
+      PISO FLORES 3_18: -7482541742216008653
+      PISO FLORES 3_19: -7724068131518562152
+      PISO FLORES 3_2: 927406608683561430
+      PISO FLORES 3_20: -7979468016168985361
+      PISO FLORES 3_21: 3865840385465373976
+      PISO FLORES 3_22: -4821639694226251111
+      PISO FLORES 3_23: -7426544591650415621
+      PISO FLORES 3_24: -2668127199338591244
+      PISO FLORES 3_25: 8929497774327612905
+      PISO FLORES 3_26: -7651524730431635707
+      PISO FLORES 3_27: -5522702282686820430
+      PISO FLORES 3_28: 6002859107714025801
+      PISO FLORES 3_29: 4340889551427704240
+      PISO FLORES 3_3: 6202563729143171376
+      PISO FLORES 3_30: 6535877232945897999
+      PISO FLORES 3_31: -8697609630657027030
+      PISO FLORES 3_32: -7704998553083434048
+      PISO FLORES 3_33: -7448735714450713236
+      PISO FLORES 3_34: 3219015565715503285
+      PISO FLORES 3_35: -1689987011185417411
+      PISO FLORES 3_36: 5622439185061945671
+      PISO FLORES 3_37: -6314639720768893515
+      PISO FLORES 3_38: -2779420811061116411
+      PISO FLORES 3_39: 6195971255491218447
+      PISO FLORES 3_4: -3881910682845190894
+      PISO FLORES 3_40: 6643768218377063351
+      PISO FLORES 3_41: 1349410152636391167
+      PISO FLORES 3_42: 3380287586598126307
+      PISO FLORES 3_43: -4203092678228912976
+      PISO FLORES 3_44: 7736920789315505822
+      PISO FLORES 3_45: 619097896483744948
+      PISO FLORES 3_46: -1774529244930818182
+      PISO FLORES 3_47: -3114603842920236027
+      PISO FLORES 3_48: 5783421324051816417
+      PISO FLORES 3_5: 7530342732243863144
+      PISO FLORES 3_6: -4357725581546122961
+      PISO FLORES 3_7: -7467472816696550003
+      PISO FLORES 3_8: -6265945075450930067
+      PISO FLORES 3_9: -8133566694662787364
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

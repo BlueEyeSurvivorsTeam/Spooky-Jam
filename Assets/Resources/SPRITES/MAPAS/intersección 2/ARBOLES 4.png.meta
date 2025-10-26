@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: e5cece0b1774fd9428bd96eddffbbba2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4095759384370643376
+    second: ARBOLES 4_0
+  - first:
+      213: 2616960304038544390
+    second: ARBOLES 4_1
+  - first:
+      213: 7037451822577933613
+    second: ARBOLES 4_2
+  - first:
+      213: -5226197745262848971
+    second: ARBOLES 4_3
+  - first:
+      213: 2022965245985495373
+    second: ARBOLES 4_4
+  - first:
+      213: 8188832493425638483
+    second: ARBOLES 4_5
+  - first:
+      213: 7472112845371461975
+    second: ARBOLES 4_6
+  - first:
+      213: 6838815458978660736
+    second: ARBOLES 4_7
+  - first:
+      213: 2870373423515098178
+    second: ARBOLES 4_8
+  - first:
+      213: -5958193222633011770
+    second: ARBOLES 4_9
+  - first:
+      213: -1772568394733192865
+    second: ARBOLES 4_10
+  - first:
+      213: -4939365302039179503
+    second: ARBOLES 4_11
+  - first:
+      213: -2677591904474124151
+    second: ARBOLES 4_12
+  - first:
+      213: 4384207898349988430
+    second: ARBOLES 4_13
+  - first:
+      213: 3465400157459837475
+    second: ARBOLES 4_14
+  - first:
+      213: -3003772274359374964
+    second: ARBOLES 4_15
+  - first:
+      213: -7036853988547702436
+    second: ARBOLES 4_16
+  - first:
+      213: 7208589822276603507
+    second: ARBOLES 4_17
+  - first:
+      213: -1451168179761582491
+    second: ARBOLES 4_18
+  - first:
+      213: -3246287335814714749
+    second: ARBOLES 4_19
+  - first:
+      213: -4256035926700024864
+    second: ARBOLES 4_20
+  - first:
+      213: -4800588831350845579
+    second: ARBOLES 4_21
+  - first:
+      213: -1270013830478978312
+    second: ARBOLES 4_22
+  - first:
+      213: 3538393081634109906
+    second: ARBOLES 4_23
+  - first:
+      213: -6640935242817908448
+    second: ARBOLES 4_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ARBOLES 4_0
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 736
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b182e6b57f07d830800000000000000
+      internalID: 4095759384370643376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 704
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6040481088f415420800000000000000
+      internalID: 2616960304038544390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 739
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ddea8852d0aa160800000000000000
+      internalID: 7037451822577933613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 672
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53419ab17d0d877b0800000000000000
+      internalID: -5226197745262848971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 710
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d491def4c24031c10800000000000000
+      internalID: 2022965245985495373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_5
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 710
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cbfc734c394a170800000000000000
+      internalID: 8188832493425638483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_6
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 672
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751dffd3b0742b760800000000000000
+      internalID: 7472112845371461975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 643
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0818fd42d6a58ee50800000000000000
+      internalID: 6838815458978660736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 611
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cd659bb6d95d720800000000000000
+      internalID: 2870373423515098178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 514
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5c1d5f4de305da0800000000000000
+      internalID: -5958193222633011770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_10
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 518
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59f7dbbf629667e0800000000000000
+      internalID: -1772568394733192865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 423
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f801c7d69d37bb0800000000000000
+      internalID: -4939365302039179503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_12
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 384
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980bb50795847dad0800000000000000
+      internalID: -2677591904474124151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 320
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4aec92ead5d7dc30800000000000000
+      internalID: 4384207898349988430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_14
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 358
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322f9fd2513971030800000000000000
+      internalID: 3465400157459837475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_15
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 320
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b64a8f7057056d0800000000000000
+      internalID: -3003772274359374964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 300
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51d25c8492185e90800000000000000
+      internalID: -7036853988547702436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_17
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 300
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e0b48204e0a0460800000000000000
+      internalID: 7208589822276603507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 226
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ee5f7aa3a6cdbe0800000000000000
+      internalID: -1451168179761582491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_19
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 167
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a2aed1eded2f2d0800000000000000
+      internalID: -3246287335814714749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 131
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb9eb5cfd58fe4c0800000000000000
+      internalID: -4256035926700024864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 96
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f00aa74e1e06db0800000000000000
+      internalID: -4800588831350845579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_22
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 64
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2a7766621006ee0800000000000000
+      internalID: -1270013830478978312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_23
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 76
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d93082b2c5ea1130800000000000000
+      internalID: 3538393081634109906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARBOLES 4_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0215773f498a6d3a0800000000000000
+      internalID: -6640935242817908448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ARBOLES 4_0: 4095759384370643376
+      ARBOLES 4_1: 2616960304038544390
+      ARBOLES 4_10: -1772568394733192865
+      ARBOLES 4_11: -4939365302039179503
+      ARBOLES 4_12: -2677591904474124151
+      ARBOLES 4_13: 4384207898349988430
+      ARBOLES 4_14: 3465400157459837475
+      ARBOLES 4_15: -3003772274359374964
+      ARBOLES 4_16: -7036853988547702436
+      ARBOLES 4_17: 7208589822276603507
+      ARBOLES 4_18: -1451168179761582491
+      ARBOLES 4_19: -3246287335814714749
+      ARBOLES 4_2: 7037451822577933613
+      ARBOLES 4_20: -4256035926700024864
+      ARBOLES 4_21: -4800588831350845579
+      ARBOLES 4_22: -1270013830478978312
+      ARBOLES 4_23: 3538393081634109906
+      ARBOLES 4_24: -6640935242817908448
+      ARBOLES 4_3: -5226197745262848971
+      ARBOLES 4_4: 2022965245985495373
+      ARBOLES 4_5: 8188832493425638483
+      ARBOLES 4_6: 7472112845371461975
+      ARBOLES 4_7: 6838815458978660736
+      ARBOLES 4_8: 2870373423515098178
+      ARBOLES 4_9: -5958193222633011770
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

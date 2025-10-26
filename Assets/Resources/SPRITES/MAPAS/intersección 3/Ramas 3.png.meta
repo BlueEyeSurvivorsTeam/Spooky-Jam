@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: fa229fcf0f7e4fa49aa8d1a91adde6ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4192112473434056485
+    second: Ramas 3_0
+  - first:
+      213: 2997520928262084094
+    second: Ramas 3_1
+  - first:
+      213: 5902296112699082125
+    second: Ramas 3_2
+  - first:
+      213: -1392124913486748710
+    second: Ramas 3_3
+  - first:
+      213: 6658886095084711798
+    second: Ramas 3_4
+  - first:
+      213: -9070573822010614364
+    second: Ramas 3_5
+  - first:
+      213: 7410881648562856074
+    second: Ramas 3_6
+  - first:
+      213: -6372630957201601500
+    second: Ramas 3_7
+  - first:
+      213: 5946122187651562348
+    second: Ramas 3_8
+  - first:
+      213: 1144608677986622253
+    second: Ramas 3_9
+  - first:
+      213: 7331086561332903638
+    second: Ramas 3_10
+  - first:
+      213: -3574222781586940071
+    second: Ramas 3_11
+  - first:
+      213: 935315599269777509
+    second: Ramas 3_12
+  - first:
+      213: 6081279428968823926
+    second: Ramas 3_13
+  - first:
+      213: -790613332357406300
+    second: Ramas 3_14
+  - first:
+      213: -2118718138202544433
+    second: Ramas 3_15
+  - first:
+      213: -3795127691830524280
+    second: Ramas 3_16
+  - first:
+      213: -6836464817628477998
+    second: Ramas 3_17
+  - first:
+      213: 2779773362273667969
+    second: Ramas 3_18
+  - first:
+      213: 3772273872371102095
+    second: Ramas 3_19
+  - first:
+      213: 8035866899311908620
+    second: Ramas 3_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ramas 3_0
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 651
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527658575106d2a30800000000000000
+      internalID: 4192112473434056485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_1
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 598
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef55cd71765599920800000000000000
+      internalID: 2997520928262084094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 584
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d850994fa0b29e150800000000000000
+      internalID: 5902296112699082125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_3
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 545
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3a6a854cd2eace0800000000000000
+      internalID: -1392124913486748710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 531
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fef498f9d196c50800000000000000
+      internalID: 6658886095084711798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 531
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad9916ba29de1280800000000000000
+      internalID: -9070573822010614364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_6
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 491
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80ec07489db8d660800000000000000
+      internalID: 7410881648562856074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 452
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c475778eddf87a0800000000000000
+      internalID: -6372630957201601500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_8
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 452
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b3a0230aed48250800000000000000
+      internalID: 5946122187651562348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 439
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bd83a378772ef00800000000000000
+      internalID: 1144608677986622253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_10
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 372
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de33e1c2604db560800000000000000
+      internalID: 7331086561332903638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 346
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fd663315fc56ec0800000000000000
+      internalID: -3574222781586940071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 293
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5605b5ff498eafc00800000000000000
+      internalID: 935315599269777509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_13
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 254
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cb39fab6b056450800000000000000
+      internalID: 6081279428968823926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 200
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a12622fc5d2705f0800000000000000
+      internalID: -790613332357406300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_15
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 200
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6a249241dc892e0800000000000000
+      internalID: -2118718138202544433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 187
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8868133c87ff45bc0800000000000000
+      internalID: -3795127691830524280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_17
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 187
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d58cc1387fff11a0800000000000000
+      internalID: -6836464817628477998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 121
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b4a66252db39620800000000000000
+      internalID: 2779773362273667969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_19
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 108
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81ba2eb91fc95430800000000000000
+      internalID: 3772273872371102095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramas 3_20
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 68
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c075ecb7e52258f60800000000000000
+      internalID: 8035866899311908620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ramas 3_0: 4192112473434056485
+      Ramas 3_1: 2997520928262084094
+      Ramas 3_10: 7331086561332903638
+      Ramas 3_11: -3574222781586940071
+      Ramas 3_12: 935315599269777509
+      Ramas 3_13: 6081279428968823926
+      Ramas 3_14: -790613332357406300
+      Ramas 3_15: -2118718138202544433
+      Ramas 3_16: -3795127691830524280
+      Ramas 3_17: -6836464817628477998
+      Ramas 3_18: 2779773362273667969
+      Ramas 3_19: 3772273872371102095
+      Ramas 3_2: 5902296112699082125
+      Ramas 3_20: 8035866899311908620
+      Ramas 3_3: -1392124913486748710
+      Ramas 3_4: 6658886095084711798
+      Ramas 3_5: -9070573822010614364
+      Ramas 3_6: 7410881648562856074
+      Ramas 3_7: -6372630957201601500
+      Ramas 3_8: 5946122187651562348
+      Ramas 3_9: 1144608677986622253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
