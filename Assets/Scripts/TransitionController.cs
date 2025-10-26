@@ -54,10 +54,6 @@ public class TransitionController : MonoBehaviour
         {
             StartCoroutine(TransitionScene(nameScene));
         }
-        else
-        {
-            SceneManager.LoadScene(nameScene);
-        }
     }
     public void CloseGame()
     {

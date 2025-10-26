@@ -76,7 +76,10 @@ public class KillMonster : MonoBehaviour
         enemyCam.Priority = 1;
         killButton.gameObject.SetActive(false);
         if (enemyCam.GetComponentInParent<EnemyMove>())
+        {
+            if (enemyCam.GetComponentInParent<EnemyMove>().isKing) GameManager.Instance.TryWin();
             enemyCam.GetComponentInParent<EnemyMove>().gameObject.SetActive(false);
+        }
         enemyCam = null;
     }
     public void SetRandomPosition()

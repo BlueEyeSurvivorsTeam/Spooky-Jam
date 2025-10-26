@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class EnemyMove : MonoBehaviour
 {
+    public bool isKing;
     public Transform target;
     public PlayerDetector detector;
     public TransitionController transitionController;

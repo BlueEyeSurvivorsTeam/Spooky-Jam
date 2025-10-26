@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.Events;
+
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance { get; private set; }
@@ -14,6 +16,9 @@ public class GameManager : MonoBehaviour
     public Color headDetailColor;
     public PartData bodyDetail;
     public Color bodyDetailColor;
+    public int kingsDefeat;
+    public int maxKingsDefeat;
+    public UnityEvent win;
     void Awake()
     {
         Instance = this;
@@ -22,5 +27,13 @@ public class GameManager : MonoBehaviour
     public void SetPause(bool boolean)
     {
         isPaused = boolean;
+    }
+    public void TryWin()
+    {
+        kingsDefeat++;
+        if(kingsDefeat == maxKingsDefeat)
+        {
+            win.Invoke();
+        }
     }
 }

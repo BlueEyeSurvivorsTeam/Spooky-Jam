@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: aca390825dc70954a8533e7e524268cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7396063647343026277
+    second: PISO-3_0
+  - first:
+      213: 2772898516740549542
+    second: PISO-3_1
+  - first:
+      213: 9072926344088476773
+    second: PISO-3_2
+  - first:
+      213: 1305981813038941776
+    second: PISO-3_3
+  - first:
+      213: 988437159824201264
+    second: PISO-3_4
+  - first:
+      213: -8305115911951266300
+    second: PISO-3_5
+  - first:
+      213: 8721589392999903720
+    second: PISO-3_6
+  - first:
+      213: 6914477465202164312
+    second: PISO-3_7
+  - first:
+      213: 3525138027070254863
+    second: PISO-3_8
+  - first:
+      213: -1786373123127666647
+    second: PISO-3_9
+  - first:
+      213: 4821354131148505081
+    second: PISO-3_10
+  - first:
+      213: 5934840120332573066
+    second: PISO-3_11
+  - first:
+      213: -3115259304798608280
+    second: PISO-3_12
+  - first:
+      213: -8326303164292456417
+    second: PISO-3_13
+  - first:
+      213: 7319154078786559205
+    second: PISO-3_14
+  - first:
+      213: 8159809469939468622
+    second: PISO-3_15
+  - first:
+      213: 2312237007356605629
+    second: PISO-3_16
+  - first:
+      213: 133487677156972981
+    second: PISO-3_17
+  - first:
+      213: 7705375624978198884
+    second: PISO-3_18
+  - first:
+      213: -6632407515033093764
+    second: PISO-3_19
+  - first:
+      213: -5851409502410268483
+    second: PISO-3_20
+  - first:
+      213: -2867607978078072281
+    second: PISO-3_21
+  - first:
+      213: -7468611636618414827
+    second: PISO-3_22
+  - first:
+      213: 4592621362690816521
+    second: PISO-3_23
+  - first:
+      213: 5904835891853915593
+    second: PISO-3_24
+  - first:
+      213: -4803437101916075106
+    second: PISO-3_25
+  - first:
+      213: -1389733589646233380
+    second: PISO-3_26
+  - first:
+      213: -4159297206028126617
+    second: PISO-3_27
+  - first:
+      213: -638160221688209375
+    second: PISO-3_28
+  - first:
+      213: -5189401421577578498
+    second: PISO-3_29
+  - first:
+      213: 379130779585046763
+    second: PISO-3_30
+  - first:
+      213: 7209965973630517648
+    second: PISO-3_31
+  - first:
+      213: 2482885016552898727
+    second: PISO-3_32
+  - first:
+      213: 6054043775670896466
+    second: PISO-3_33
+  - first:
+      213: -450913881771518611
+    second: PISO-3_34
+  - first:
+      213: 5934553217053851200
+    second: PISO-3_35
+  - first:
+      213: -3448918311609706855
+    second: PISO-3_36
+  - first:
+      213: 2679879267682099761
+    second: PISO-3_37
+  - first:
+      213: -3376837308610859048
+    second: PISO-3_38
+  - first:
+      213: -1523657846785165903
+    second: PISO-3_39
+  - first:
+      213: -3869981142536474688
+    second: PISO-3_40
+  - first:
+      213: 5084743608744073201
+    second: PISO-3_41
+  - first:
+      213: 5193330467781705778
+    second: PISO-3_42
+  - first:
+      213: -8371155321248861971
+    second: PISO-3_43
+  - first:
+      213: 5145832162101602048
+    second: PISO-3_44
+  - first:
+      213: 8291837721480179729
+    second: PISO-3_45
+  - first:
+      213: -2327088011579772038
+    second: PISO-3_46
+  - first:
+      213: 6376381428384525671
+    second: PISO-3_47
+  - first:
+      213: -2816508855840934937
+    second: PISO-3_48
+  - first:
+      213: 157013475839814613
+    second: PISO-3_49
+  - first:
+      213: -4223775738428781150
+    second: PISO-3_50
+  - first:
+      213: 863169081545703181
+    second: PISO-3_51
+  - first:
+      213: -8126855766039269824
+    second: PISO-3_52
+  - first:
+      213: -1554342783512745650
+    second: PISO-3_53
+  - first:
+      213: 1629571483910321962
+    second: PISO-3_54
+  - first:
+      213: 58021605538657149
+    second: PISO-3_55
+  - first:
+      213: -8424661252432082141
+    second: PISO-3_56
+  - first:
+      213: -990672441361730318
+    second: PISO-3_57
+  - first:
+      213: -139497341350551252
+    second: PISO-3_58
+  - first:
+      213: -8936398082772204062
+    second: PISO-3_59
+  - first:
+      213: 2319284060039127893
+    second: PISO-3_60
+  - first:
+      213: -1924527329295673291
+    second: PISO-3_61
+  - first:
+      213: -3783249721736076721
+    second: PISO-3_62
+  - first:
+      213: 3118761676297013978
+    second: PISO-3_63
+  - first:
+      213: 5860555840740348590
+    second: PISO-3_64
+  - first:
+      213: 6418781745252628641
+    second: PISO-3_65
+  - first:
+      213: -7675544186312494060
+    second: PISO-3_66
+  - first:
+      213: -445322795899366343
+    second: PISO-3_67
+  - first:
+      213: 5165986392518334257
+    second: PISO-3_68
+  - first:
+      213: -1422567253228333384
+    second: PISO-3_69
+  - first:
+      213: 1320281038569490162
+    second: PISO-3_70
+  - first:
+      213: 860314846004986963
+    second: PISO-3_71
+  - first:
+      213: 7626277020730337594
+    second: PISO-3_72
+  - first:
+      213: -1688766453083313894
+    second: PISO-3_73
+  - first:
+      213: 1342410608216953164
+    second: PISO-3_74
+  - first:
+      213: 2438670218774303009
+    second: PISO-3_75
+  - first:
+      213: -4938121396943229240
+    second: PISO-3_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PISO-3_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 771
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560af0483b814a660800000000000000
+      internalID: 7396063647343026277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 771
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab278072805b7620800000000000000
+      internalID: 2772898516740549542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 746
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c5da4807289ed70800000000000000
+      internalID: 9072926344088476773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_3
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 746
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0568e412a87cf1210800000000000000
+      internalID: 1305981813038941776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 739
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0361e122c52a7bd00800000000000000
+      internalID: 988437159824201264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 675
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e43b9941d4ebc80800000000000000
+      internalID: -8305115911951266300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 675
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1f29e085f490970800000000000000
+      internalID: 8721589392999903720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 675
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85281d0ce9825ff50800000000000000
+      internalID: 6914477465202164312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 643
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f6ebfcb5ecbe030800000000000000
+      internalID: 3525138027070254863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_9
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 643
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9289bafeb178537e0800000000000000
+      internalID: -1786373123127666647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_10
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 643
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fff773a904e8e240800000000000000
+      internalID: 4821354131148505081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_11
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 643
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89d82335a9cc5250800000000000000
+      internalID: 5934840120332573066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_12
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 609
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864af3aea2064c4d0800000000000000
+      internalID: -3115259304798608280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 522
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1023200367037c80800000000000000
+      internalID: -8326303164292456417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_14
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec9c6a2bdbd29560800000000000000
+      internalID: 7319154078786559205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_15
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 447
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e494c9afa777d3170800000000000000
+      internalID: 8159809469939468622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 407
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4b004be47b61020800000000000000
+      internalID: 2312237007356605629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 399
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b955dac55e3ad100800000000000000
+      internalID: 133487677156972981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 407
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46177cb5e4efeea60800000000000000
+      internalID: 7705375624978198884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 399
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7932dc4184f4f3a0800000000000000
+      internalID: -6632407515033093764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_20
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 402
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0ad754f0e9bcea0800000000000000
+      internalID: -5851409502410268483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 400
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7229497bcb53438d0800000000000000
+      internalID: -2867607978078072281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_22
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 409
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515b20279492a5890800000000000000
+      internalID: -7468611636618414827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_23
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 401
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a7e0febc44cbf30800000000000000
+      internalID: 4592621362690816521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_24
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 387
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5fdee55f032f150800000000000000
+      internalID: 5904835891853915593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_25
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 387
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b4c5fc763c65db0800000000000000
+      internalID: -4803437101916075106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 386
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd035b0d9aca6bce0800000000000000
+      internalID: -1389733589646233380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 393
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7663b6f5a353746c0800000000000000
+      internalID: -4159297206028126617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_28
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 387
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1206d74d8acc427f0800000000000000
+      internalID: -638160221688209375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_29
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 387
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef716f5d6ea8bf7b0800000000000000
+      internalID: -5189401421577578498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 385
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be865907f61f24500800000000000000
+      internalID: 379130779585046763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 377
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09186ec5ad1fe0460800000000000000
+      internalID: 7209965973630517648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 369
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a086c584caf47220800000000000000
+      internalID: 2482885016552898727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 375
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257478ffcb8440450800000000000000
+      internalID: 6054043775670896466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 367
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6557bca6380eb9f0800000000000000
+      internalID: -450913881771518611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 354
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e752355b4cb5250800000000000000
+      internalID: 5934553217053851200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 370
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996d929911bf220d0800000000000000
+      internalID: -3448918311609706855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_37
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 375
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132202fcef7d03520800000000000000
+      internalID: 2679879267682099761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 367
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfa6fbeb501321d0800000000000000
+      internalID: -3376837308610859048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_39
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 368
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b53223d241eadae0800000000000000
+      internalID: -1523657846785165903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_40
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 338
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf27a7a7a01b4ac0800000000000000
+      internalID: -3869981142536474688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_41
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 323
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7d02d3f53a09640800000000000000
+      internalID: 5084743608744073201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_42
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 345
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23087558b8a621840800000000000000
+      internalID: 5193330467781705778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_43
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 337
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0375d669ea3db80800000000000000
+      internalID: -8371155321248861971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 323
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007a8df661ba96740800000000000000
+      internalID: 5145832162101602048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_45
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 323
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110b204c976821370800000000000000
+      internalID: 8291837721480179729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_46
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 321
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73b7bc68c584bfd0800000000000000
+      internalID: -2327088011579772038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76de14720257d7850800000000000000
+      internalID: 6376381428384525671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_48
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 306
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3fbdc3e10c9e8d0800000000000000
+      internalID: -2816508855840934937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_49
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 291
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dba164ace2dd2200800000000000000
+      internalID: 157013475839814613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 289
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad0a0c28522265c0800000000000000
+      internalID: -4223775738428781150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_51
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 289
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fb1a6d4b79afb00800000000000000
+      internalID: 863169081545703181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_52
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 289
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ee46c1dbb973f80800000000000000
+      internalID: -8126855766039269824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_53
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 259
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49e781497ddd6ae0800000000000000
+      internalID: -1554342783512745650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_54
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 259
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27b49a71a66d9610800000000000000
+      internalID: 1629571483910321962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_55
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 259
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73fd63c7522ec000800000000000000
+      internalID: 58021605538657149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bc9c70a37951b80800000000000000
+      internalID: -8424661252432082141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_57
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 226
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f47dd3d9ac6042f0800000000000000
+      internalID: -990672441361730318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_58
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 215
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2160b938e7601ef0800000000000000
+      internalID: -139497341350551252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 207
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e581e07a498bf380800000000000000
+      internalID: -8936398082772204062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_60
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 194
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553abd38090cf2020800000000000000
+      internalID: 2319284060039127893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 195
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538dcc03794ba45e0800000000000000
+      internalID: -1924527329295673291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_62
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 194
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42635f2c623f7bc0800000000000000
+      internalID: -3783249721736076721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_63
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada09ce7831184b20800000000000000
+      internalID: 3118761676297013978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_64
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 185
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea25ba19c70e45150800000000000000
+      internalID: 5860555840740348590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_65
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 177
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a87b883df7141950800000000000000
+      internalID: 6418781745252628641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4147705ba3dfa7590800000000000000
+      internalID: -7675544186312494060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_67
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 163
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934d80cc645e1d9f0800000000000000
+      internalID: -445322795899366343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_68
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 162
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1379e80e04541b740800000000000000
+      internalID: 5165986392518334257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 169
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6d83ace96024ce0800000000000000
+      internalID: -1422567253228333384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_70
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 163
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f64e930c94925210800000000000000
+      internalID: 1320281038569490162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_71
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 131
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3544f175bc370fb00800000000000000
+      internalID: 860314846004986963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_72
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 130
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a392b5b6b8af5d960800000000000000
+      internalID: 7626277020730337594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_73
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 99
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a196f5fbbdb4098e0800000000000000
+      internalID: -1688766453083313894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 112
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41dc75f55331a210800000000000000
+      internalID: 1342410608216953164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_75
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 99
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121dd52b4a5e7d120800000000000000
+      internalID: 2438670218774303009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISO-3_76
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce6175b0c4487bb0800000000000000
+      internalID: -4938121396943229240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PISO-3_0: 7396063647343026277
+      PISO-3_1: 2772898516740549542
+      PISO-3_10: 4821354131148505081
+      PISO-3_11: 5934840120332573066
+      PISO-3_12: -3115259304798608280
+      PISO-3_13: -8326303164292456417
+      PISO-3_14: 7319154078786559205
+      PISO-3_15: 8159809469939468622
+      PISO-3_16: 2312237007356605629
+      PISO-3_17: 133487677156972981
+      PISO-3_18: 7705375624978198884
+      PISO-3_19: -6632407515033093764
+      PISO-3_2: 9072926344088476773
+      PISO-3_20: -5851409502410268483
+      PISO-3_21: -2867607978078072281
+      PISO-3_22: -7468611636618414827
+      PISO-3_23: 4592621362690816521
+      PISO-3_24: 5904835891853915593
+      PISO-3_25: -4803437101916075106
+      PISO-3_26: -1389733589646233380
+      PISO-3_27: -4159297206028126617
+      PISO-3_28: -638160221688209375
+      PISO-3_29: -5189401421577578498
+      PISO-3_3: 1305981813038941776
+      PISO-3_30: 379130779585046763
+      PISO-3_31: 7209965973630517648
+      PISO-3_32: 2482885016552898727
+      PISO-3_33: 6054043775670896466
+      PISO-3_34: -450913881771518611
+      PISO-3_35: 5934553217053851200
+      PISO-3_36: -3448918311609706855
+      PISO-3_37: 2679879267682099761
+      PISO-3_38: -3376837308610859048
+      PISO-3_39: -1523657846785165903
+      PISO-3_4: 988437159824201264
+      PISO-3_40: -3869981142536474688
+      PISO-3_41: 5084743608744073201
+      PISO-3_42: 5193330467781705778
+      PISO-3_43: -8371155321248861971
+      PISO-3_44: 5145832162101602048
+      PISO-3_45: 8291837721480179729
+      PISO-3_46: -2327088011579772038
+      PISO-3_47: 6376381428384525671
+      PISO-3_48: -2816508855840934937
+      PISO-3_49: 157013475839814613
+      PISO-3_5: -8305115911951266300
+      PISO-3_50: -4223775738428781150
+      PISO-3_51: 863169081545703181
+      PISO-3_52: -8126855766039269824
+      PISO-3_53: -1554342783512745650
+      PISO-3_54: 1629571483910321962
+      PISO-3_55: 58021605538657149
+      PISO-3_56: -8424661252432082141
+      PISO-3_57: -990672441361730318
+      PISO-3_58: -139497341350551252
+      PISO-3_59: -8936398082772204062
+      PISO-3_6: 8721589392999903720
+      PISO-3_60: 2319284060039127893
+      PISO-3_61: -1924527329295673291
+      PISO-3_62: -3783249721736076721
+      PISO-3_63: 3118761676297013978
+      PISO-3_64: 5860555840740348590
+      PISO-3_65: 6418781745252628641
+      PISO-3_66: -7675544186312494060
+      PISO-3_67: -445322795899366343
+      PISO-3_68: 5165986392518334257
+      PISO-3_69: -1422567253228333384
+      PISO-3_7: 6914477465202164312
+      PISO-3_70: 1320281038569490162
+      PISO-3_71: 860314846004986963
+      PISO-3_72: 7626277020730337594
+      PISO-3_73: -1688766453083313894
+      PISO-3_74: 1342410608216953164
+      PISO-3_75: 2438670218774303009
+      PISO-3_76: -4938121396943229240
+      PISO-3_8: 3525138027070254863
+      PISO-3_9: -1786373123127666647
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
