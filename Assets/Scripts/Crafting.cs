@@ -41,7 +41,7 @@ public class Crafting : MonoBehaviour
                 isOpen = true;
             }
         }
-        if(Input.GetKeyDown(changeColor) && !GameManager.Instance.isPaused)
+        if(Input.GetKeyDown(changeColor) && !GameManager.Instance.isPaused && InventoryManager.Instance.HasTool(ToolType.PaintKit))
         {
             var colors = ItemManager.Instance.colors;
             if (colors == null || colors.Count == 0) return;
