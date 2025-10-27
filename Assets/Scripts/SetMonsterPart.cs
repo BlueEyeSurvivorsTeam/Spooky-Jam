@@ -145,10 +145,14 @@ public class SetMonsterPart : MonoBehaviour
             if (isFurActive)
             {
                 ApplyColor(winds, Color.clear);
-                playerDetector.bodyDetailColor = head.color;
-                playerDetector.bodyColor = head.color;
+                playerDetector.bodyDetailColor = ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
+                while (playerDetector.bodyDetailColor == playerDetector.headColor)
+                {
+                    playerDetector.bodyDetailColor = ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
+                }
+                playerDetector.bodyColor = playerDetector.bodyDetailColor;
                 ApplyColor(fur, playerDetector.bodyDetailColor);
-                ApplyColor(body, playerDetector.bodyDetailColor);
+                ApplyColor(body, playerDetector.bodyColor);
             }
             else
             {
@@ -162,9 +166,13 @@ public class SetMonsterPart : MonoBehaviour
                         playerDetector.bodyDetailColor = ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
                     }
                 }
-                playerDetector.bodyColor = head.color;
+                playerDetector.bodyColor = ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
+                while (playerDetector.bodyColor== playerDetector.headColor)
+                {
+                    playerDetector.bodyColor= ItemManager.Instance.colors[Random.Range(0, ItemManager.Instance.colors.Count)];
+                }
                 ApplyColor(winds, playerDetector.bodyDetailColor);
-                ApplyColor(body, playerDetector.headColor);
+                ApplyColor(body, playerDetector.bodyColor);
             }
         }
     }

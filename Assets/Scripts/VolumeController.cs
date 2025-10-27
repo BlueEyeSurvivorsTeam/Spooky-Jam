@@ -15,6 +15,9 @@ public class VolumeController : MonoBehaviour
             sfxSlider.value = PlayerPrefs.GetFloat("SFXVolume", 0.75f);
             musicSlider.onValueChanged.AddListener(SetMusicVolume);
             sfxSlider.onValueChanged.AddListener(SetSFXVolume);
+        }
+        if(buttons.Count > 0)
+        {
             for (int i = 0; i < buttons.Count; i++)
             {
                 buttons[i].onClick.AddListener(SetButtonSound);

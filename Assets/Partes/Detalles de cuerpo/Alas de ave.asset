@@ -19,4 +19,4 @@ MonoBehaviour:
   namePart: Alas de ave
   useColor: 1
   currentColor: {r: 1, g: 1, b: 1, a: 1}
-  sprite: {fileID: 3817136733662290157, guid: 1ec7386cb26178847a5b0531f69fc343, type: 3}
+  sprite: {fileID: -2151759612151435012, guid: c0a153ca9aa41944789eae4d0e15aadb, type: 3}
