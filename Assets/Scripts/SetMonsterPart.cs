@@ -15,6 +15,12 @@ public class SetMonsterPart : MonoBehaviour
 
     private void Start()
     {
+        if (playerDetector.headData == null) playerDetector.headData = ItemManager.Instance.HeadPartList[Random.Range(0, ItemManager.Instance.HeadPartList.Count)];
+        if (playerDetector.headDetailData == null) playerDetector.headDetailData = ItemManager.Instance.HeadDetailPartList[Random.Range(0, ItemManager.Instance.HeadDetailPartList.Count)];
+        if (playerDetector.eyeData == null) playerDetector.eyeData = ItemManager.Instance.EyePartList[Random.Range(0, ItemManager.Instance.EyePartList.Count)];
+        if (playerDetector.mouthData == null) playerDetector.mouthData= ItemManager.Instance.MouthPartList[Random.Range(0, ItemManager.Instance.MouthPartList.Count)];
+        if (playerDetector.bodyDetailData == null) playerDetector.bodyDetailData = ItemManager.Instance.BodyDetailPartList[Random.Range(0, ItemManager.Instance.BodyDetailPartList.Count)];
+
         ApplyHeadPart(playerDetector.headData);
         ApplyEyePart(playerDetector.eyeData);
         ApplyMouthPart(playerDetector.mouthData);
