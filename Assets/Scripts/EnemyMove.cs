@@ -14,6 +14,7 @@ public class EnemyMove : MonoBehaviour
     Vector2 initialPos;
     private NavMeshAgent nma;
     private Rigidbody2D rb;
+    public AudioClip scareSound;
 
     private void Start()
     {
@@ -54,6 +55,7 @@ public class EnemyMove : MonoBehaviour
     {
         transform.localScale = Vector3.one *50;
         transform.position = new Vector3(0, -5.5f, 0);
+        AudioManager.Instance.PlaySFX(scareSound, true);
         SceneManager.MoveGameObjectToScene(this.gameObject, SceneManager.GetActiveScene());
     }
 }

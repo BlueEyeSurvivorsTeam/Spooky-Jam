@@ -35,9 +35,15 @@ public class AudioManager : MonoBehaviour
         musicSource.loop = loop;
         musicSource.Play();
     }
-    public void PlaySFX(AudioClip clip)
+    public void PlayMusicOneShot(AudioClip clip)
     {
+        musicSource.PlayOneShot(clip);
+    }
+    public void PlaySFX(AudioClip clip, bool useRandomPitch = false)
+    {
+        if (useRandomPitch == true) RandomPitch();
         sfxSource.PlayOneShot(clip);
+        sfxSource.pitch = 1f;
     }
     private void LoadAudioSettings()
     {

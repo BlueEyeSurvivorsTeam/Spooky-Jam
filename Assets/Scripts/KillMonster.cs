@@ -17,6 +17,7 @@ public class KillMonster : MonoBehaviour
     bool canKill;
     bool tryToKill;
     CinemachineCamera enemyCam;
+    public AudioClip scareSound;
     private void Update()
     {
         if(canKill && enemyCam != null && !tryToKill)
@@ -70,6 +71,7 @@ public class KillMonster : MonoBehaviour
     public void Kill()
     {
         anim.SetTrigger("Boo");
+        AudioManager.Instance.PlaySFX(scareSound, true);
         tryToKill = false;
         player.canMove = true;
         playerCam.Priority = 2;
@@ -92,11 +94,11 @@ public class KillMonster : MonoBehaviour
         Vector2 canvasSize = parentCanvas.rect.size;
         Vector2 buttonSize = rectTransform.rect.size;
 
-        // Calcular área disponible
+        // Calcular ï¿½rea disponible
         float availableWidth = canvasSize.x - buttonSize.x - (randomPosDistance * 2);
         float availableHeight = canvasSize.y - buttonSize.y - (randomPosDistance * 2);
 
-        // Posición random
+        // Posiciï¿½n random
         float randomX = Random.Range(-availableWidth / 2, availableWidth / 2);
         float randomY = Random.Range(-availableHeight / 2, availableHeight / 2);
 

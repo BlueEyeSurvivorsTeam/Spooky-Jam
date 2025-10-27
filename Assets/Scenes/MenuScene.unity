@@ -163,10 +163,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2fdb0924d51a916498984d9e14d06e1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  buttonSound: {fileID: 0}
+  buttonSound: {fileID: 8300000, guid: c8088a12b8d826c4bad16b75868e446e, type: 3}
   musicSlider: {fileID: 1065241709}
   sfxSlider: {fileID: 696741966}
-  buttons: []
+  buttons:
+  - {fileID: 1356885673}
 --- !u!4 &72407446
 Transform:
   m_ObjectHideFlags: 0
